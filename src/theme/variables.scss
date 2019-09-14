@@ -28,9 +28,9 @@ $green:           #5e8100; // Accent.
 $red:             #cb3d4d;
 $orange:          #f98012; // Accent (never text).
 $yellow:          #fbad1a; // Accent (never text).
-$core-color:      #002B46;
+$core-color:      #230B00;
 
-// Branded apps customization
+// Branded apps customizationE4D6A7 5E503F
 // --------------------------------------------------
 @import "bmma";
 
@@ -103,7 +103,7 @@ $core-error-color: colors($colors, alert) !default; // Red.
 
 $list-background-color:      $white !default;
 
-$tabs-background:            $gray-darker !default;
+$tabs-background:            #616163;
 $tabs-border-color:          #b2b2b2 !default;
 $tabs-tab-color-active:      $core-color !default;
 $tabs-tab-color-inactive:    $white !default;

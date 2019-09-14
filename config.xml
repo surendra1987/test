@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.elearney.emobile" version="3.7.1" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Elearney LMS</name>
-    <description>Elearney LMS official app</description>
+<widget id="com.codex.emobile" version="3.7.1" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>CODEX EDUCATION (INDIA)</name>
+    <description>CODEX EDUCATION (INDIA) official app</description>
     <author email="mobile@moodle.com" href="http://moodle.com">Moodle Mobile team</author>
     <content src="index.html" />
     <access origin="*" />
